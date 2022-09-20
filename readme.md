@@ -10,3 +10,4 @@
 10. git merge rama-heroes
 11. git branch -d rama-heroes
 12. git push
+13. git commit -am 
